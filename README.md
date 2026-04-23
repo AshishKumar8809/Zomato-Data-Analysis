@@ -26,7 +26,7 @@ This project analyzes Zomato data using Microsoft Excel to find insights about r
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard](dashboard.png.png)
+![Dashboard](Dashboard.png.png)
 
 ---
 
